@@ -60,6 +60,7 @@
 ### 📜 Mes documents
 
 📄 **Mon CV :**  
+
 [![CV PDF](https://img.shields.io/badge/Télécharger%20CV-4FC3F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Français_Professionnel.pdf)
 
 🏅 **Certificat :**  
