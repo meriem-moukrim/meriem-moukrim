@@ -82,7 +82,7 @@
        width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriem-moukrim&layout=compact&theme=tokyonight&hide_border=true" 
        width="48%" alt="Top Languages"/>
-</p><
+</p>
 
 <br clear="both"/>
 
