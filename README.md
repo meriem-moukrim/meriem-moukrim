@@ -6,6 +6,10 @@
 <h1 align="center">👋 Salut, je suis <span style="color:#4FC3F7;">Moukrim Meriem</span></h1>
 
 <h3 align="center">💻 Développeuse Full Stack | Stagiaire au CFPMS | Passionné par le web</h3>
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhha3UwZmg4cGoxaTdsMDZ2bGwxbHE0dXE4bWF3dzBhNDRhazNjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</div>
+
 
 ---
 
