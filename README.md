@@ -64,6 +64,7 @@
 [![CV PDF](https://img.shields.io/badge/Télécharger%20CV-4FC3F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Français_Professionnel.pdf)
 
 🏅 **Certificat :**  
+
 [![Introduction_to_Cybersecurity_certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Introduction_to_Cybersecurity_certificate.pdf)
 [![Python Essentials 1](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Python_Essentials_1_certificate.pdf)
 [![Python Essentials 1](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Python_Essentials_1_certificate.pdf)
