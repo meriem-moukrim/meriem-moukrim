@@ -71,7 +71,7 @@
 
 [![Introduction_to_Cybersecurity_certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Introduction_to_Cybersecurity_certificate.pdf)
 [![Python Essentials 1](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Python_Essentials_1_certificate.pdf)
-[![Python Essentials 1](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Python_Essentials_1_certificate.pdf)
+[![Computer_Hardware_Basics_certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Computer_Hardware_Basics_certificate.pdf)
 
 ---
 
