@@ -5,19 +5,19 @@
 
 <h1 align="center">👋 Salut, je suis <span style="color:#4FC3F7;">Moukrim Meriem</span></h1>
 
-<h3 align="center">💻 Développeuse Full Stack | Stagiaire au CFPMS | Passionné par le web</h3>
+<h3 align="center">💻 Développeuse Full Stack | Stagiaire au CFPMS | Passionnée par le web</h3>
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhha3UwZmg4cGoxaTdsMDZ2bGwxbHE0dXE4bWF3dzBhNDRhazNjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
-
 
 ---
 
 ### 🌍 À propos de moi
 
-> 🔹 Curieux, motivé et passionné par la création d’applications web modernes.  
+> 🔹 Curieuse, motivée et passionnée par la création d’applications web modernes.  
 > 🔹 Actuellement stagiaire en **Développement Web Full Stack** au CFPMS Hay Hassani II.  
 > 🔹 J’aime transformer des idées en projets concrets, performants et esthétiques.  
+> 🔹 Je recherche un stage me permettant d'appliquer mes connaissances en front-end et back-end, tout en acquérant une expérience concrète dans un environnement professionnel dynamique.
 
 🎯 **Objectif :** contribuer à des projets innovants et continuer à apprendre chaque jour.
 
@@ -44,20 +44,46 @@
 #### 🗄️ Base de données & Outils
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-ea3e23?style=for-the-badge&logo=microsoft-365&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 </p>
 
 ---
 
-### 🏆 Réalisations
-- 🎓 **Stagiaire en Développement Web Full Stack** – CFPMS Hay Hassani II *(2024 - en cours)*  
-- 🧩 **Hackathon ISGI (2025)** – Travail d’équipe et résolution de QCM techniques  
-- 🏅 **Cisco Networking Academy** – * Introduction à la cybersécurité *  
-- 🏅 **Cisco Networking Academy** – * Les bases du matériel informatique *  
-- 🏅 **Cisco Networking Academy** – * Python Essentials 1 *  
+### 🎓 Formation
+
+- 🎓 **Diplôme de TS en Développement Digital** – CFPMS Hay Hassani II *(2024 - 2026)*
+- 🎓 **Baccalauréat Science Physique** – Lycée Mohammed Ezzarktouni *(2023)*
+
+---
+
+### 🏆 Expériences & Réalisations
+
+- 🧩 **Hackathon ISGI (Mai 2025)** – Travail d’équipe et résolution de QCM techniques.
+- 💡 **ICAMP - SIÈGE AWB (Décembre 2025)** – Participation au Innovation Camp d'Attijariwafa Bank. Application de solutions IA pour l'innovation et le marketing digital.
+- 💻 **ImmoChat** – Plateforme IA développée lors de l'ICAMP pour révolutionner l'immobilier.
+- 🏠 **Agence Immobilière** – Sunshine Properties, plateforme immobilière moderne et complète.
+
+---
+
+### 🏅 Certifications
+
+- 📜 **Introduction to Modern AI** – Cisco Networking Academy *(19 août 2025)*
+- 📜 **IA & Marketing Digital** – Innovation Camp AWB *(22 décembre 2025)*
+- 📜 **Introduction à la cybersécurité** – Cisco Networking Academy *(09 août 2025)*
+- 📜 **Python Essentials 1** – Cisco Networking Academy *(09 août 2025)*
+- 📜 **Les bases du matériel informatique** – Cisco Networking Academy *(01 août 2025)*
+
+---
+
+### 🗣️ Langues
+- 🇫🇷 **Français** : Intermédiaire
+- 🇦🇪 **Arabe** : Courant / Langue maternelle
 
 ---
 
@@ -67,7 +93,7 @@
 
 [![CV PDF](https://img.shields.io/badge/Télécharger%20CV-4FC3F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV_Français_Professionnel.pdf)
 
-🏅 **Certificat :**  
+🏅 **Certificats :**  
 
 [![Introduction_to_Cybersecurity_certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Introduction_to_Cybersecurity_certificate.pdf)
 [![Python Essentials 1](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Python_Essentials_1_certificate.pdf)
@@ -90,8 +116,7 @@
 
 ### 📫 Me contacter
 <p align="center">
-  <a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="mailto:moukrim.meriem.dev2026@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+  <a href="mailto:moukrim.meriem.dev2026@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/meriem-moukrim"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/meriemmoukrim/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
