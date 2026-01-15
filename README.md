@@ -92,6 +92,7 @@
 [![Introduction to Cybersecurity certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Introduction_to_Cybersecurity_certificate.pdf)
 [![Computer Hardware Basics certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](Computer_Hardware_Basics_certificate.pdf)
 [![Introduction à l'IA certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](certificate_Modern_AI.pdf)
+[![Innovation Camp certificate](https://img.shields.io/badge/Consulter%20Certificat-FFD700?style=for-the-badge&logo=freecodecamp&logoColor=black)](certificat_Innovation_Camp.jpeg)
 
 ---
 
